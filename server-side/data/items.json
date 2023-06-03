@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Classic Combo",
+    "description": "Menu asyick di KPC",
+    "price": 52000,
+    "imgUrl": "https://static.order.kfcku.com/images/items/lg/9145.jpg?v=38J9l4",
+    "authorId": 1,
+    "categoryId": 1
+  },
+  {
+    "name": "Rendang Chicken",
+    "description": "Menu ayam rendang",
+    "price": 22000,
+    "imgUrl": "https://static.order.kfcku.com/images/items/lg/12106.jpg?v=38J9l4",
+    "authorId": 1,
+    "categoryId": 2
+  },
+  {
+    "name": "Super Box 2",
+    "description": "Ayam untuk keluarga bahagia",
+    "price": 25000,
+    "imgUrl": "https://static.order.kfcku.com/images/items/lg/12131.jpg?v=38J9l4",
+    "authorId": 1,
+    "categoryId": 1
+  },
+  {
+    "name": "Mocha Float",
+    "description": "Minuman Mocha Float",
+    "price": 14500,
+    "imgUrl": "https://files.kfcku.com/uploads/media/food-menu/drinks/large/kfc-web_mocha-float_l_1.png",
+    "authorId": 1,
+    "categoryId": 4
+  },
+  {
+    "name": "Coca-cola Medium",
+    "description": "Minuman bersoda",
+    "price": 11000,
+    "imgUrl": "https://static.order.kfcku.com/images/items/lg/11940.jpg?v=38J9l4",
+    "authorId": 1,
+    "categoryId": 4
+  }
+]

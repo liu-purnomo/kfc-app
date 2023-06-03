@@ -1,0 +1,26 @@
+[
+  {
+    "username": "Admin",
+    "email": "admin@mail.com",
+    "password": "password123",
+    "role": "admin",
+    "phoneNumber": "12345678",
+    "address": "Jl. Papa Kilo 123"
+  },
+  {
+    "username": "Alpha",
+    "email": "alpha@mail.com",
+    "password": "password123",
+    "role": "admin",
+    "phoneNumber": "12345678",
+    "address": "Jl. Papa Kilo 123"
+  },
+  {
+    "username": "Bravo",
+    "email": "bravo@mail.com",
+    "password": "password123",
+    "role": "admin",
+    "phoneNumber": "12345678",
+    "address": "Jl. Papa Kilo 123"
+  }
+]
